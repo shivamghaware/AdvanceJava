@@ -1,0 +1,39 @@
+# =========================
+# Eclipse Workspace Files
+# =========================
+
+.metadata/
+
+# Eclipse project settings
+.settings/
+.classpath
+.project
+
+# Eclipse generated files
+*.launch
+
+# Java build output
+bin/
+target/
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
