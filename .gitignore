@@ -1,21 +1,13 @@
-# =========================
-# Eclipse Workspace Files
-# =========================
-
+# Eclipse workspace metadata
 .metadata/
 
-# Eclipse project settings
-.settings/
-.classpath
-.project
+# Eclipse user-specific settings
+**/.settings/
 
-# Eclipse generated files
-*.launch
-
-# Java build output
-bin/
-target/
-out/
+# Optional Eclipse config files
+# Remove these lines if you WANT them in Git
+**/.classpath
+**/.project
 
 # Logs
 *.log
@@ -23,17 +15,3 @@ out/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Maven
-.mvn/wrapper/maven-wrapper.jar
-
-# Gradle
-.gradle/
-build/
-
-# VS Code
-.vscode/
-
-# IntelliJ
-.idea/
-*.iml
