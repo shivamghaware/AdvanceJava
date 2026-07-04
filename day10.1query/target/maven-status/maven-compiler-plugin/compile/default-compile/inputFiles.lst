@@ -1,0 +1,10 @@
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\dao\UserDao.java
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\dao\UserDaoImpl.java
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\entities\User.java
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\entities\UserRole.java
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\tester\GetAllUsers.java
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\tester\GetUserDetailsById.java
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\tester\GetUsersByRoleAndDob.java
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\tester\RegisterNewUser.java
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\tester\TestHibernate.java
+D:\IACSD-Feb2026\DAC\WebJava\lab\day10.1\src\main\java\com\healthcare\utils\HibernateUtils.java

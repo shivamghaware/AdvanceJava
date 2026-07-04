@@ -1,0 +1,10 @@
+com\healthcare\entities\Doctor.class
+com\healthcare\tester\TestHibernate.class
+com\healthcare\utils\HibernateUtils.class
+com\healthcare\dtos\UserDTO.class
+com\healthcare\entities\BaseEntity.class
+com\healthcare\entities\BloodGroup.class
+com\healthcare\entities\Gender.class
+com\healthcare\entities\Patient.class
+com\healthcare\entities\UserDetails.class
+com\healthcare\entities\UserRole.class

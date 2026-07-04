@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="https://jakarta.ee/xml/ns/jakartaee"
+	xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+	id="WebApp_ID" version="6.0">
+	<display-name>day7.3Assign</display-name>
+
+	<context-param>
+		<param-name>dbURL</param-name>
+		<param-value>jdbc:mysql://localhost:3306/day7mvc</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>userName</param-name>
+		<param-value>root</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>password</param-name>
+		<param-value>shivam12345</param-value>
+	</context-param>
+</web-app>

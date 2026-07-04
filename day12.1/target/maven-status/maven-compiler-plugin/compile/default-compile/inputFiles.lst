@@ -1,0 +1,10 @@
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\dtos\UserDTO.java
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\entities\BaseEntity.java
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\entities\BloodGroup.java
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\entities\Doctor.java
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\entities\Gender.java
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\entities\Patient.java
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\entities\UserDetails.java
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\entities\UserRole.java
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\tester\TestHibernate.java
+D:\MumbaiOnlineFeb2026\code\day4.1\src\main\java\com\healthcare\utils\HibernateUtils.java
